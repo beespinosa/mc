@@ -1,0 +1,10 @@
+# Everything from prod
+-r requirements-prod.txt
+
+# Notebook + visualization + dev tooling
+matplotlib==3.10.3
+seaborn==0.13.2
+jupyterlab
+ipython
+notebook
+tqdm
